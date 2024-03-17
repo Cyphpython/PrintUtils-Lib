@@ -6,4 +6,5 @@ Slowprint():
 Slowprint is use for displaying text letter by letter you use it like this : 
 
 using Static PrintUtils.PrintUtils;
+
 SlowPrint("hello world");
