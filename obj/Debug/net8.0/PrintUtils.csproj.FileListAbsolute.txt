@@ -1,0 +1,11 @@
+C:\Users\vanco\Documents\Dossier de code\C#(Personal)\PrintUtils\bin\Debug\net8.0\PrintUtils.deps.json
+C:\Users\vanco\Documents\Dossier de code\C#(Personal)\PrintUtils\bin\Debug\net8.0\PrintUtils.dll
+C:\Users\vanco\Documents\Dossier de code\C#(Personal)\PrintUtils\bin\Debug\net8.0\PrintUtils.pdb
+C:\Users\vanco\Documents\Dossier de code\C#(Personal)\PrintUtils\obj\Debug\net8.0\PrintUtils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanco\Documents\Dossier de code\C#(Personal)\PrintUtils\obj\Debug\net8.0\PrintUtils.AssemblyInfoInputs.cache
+C:\Users\vanco\Documents\Dossier de code\C#(Personal)\PrintUtils\obj\Debug\net8.0\PrintUtils.AssemblyInfo.cs
+C:\Users\vanco\Documents\Dossier de code\C#(Personal)\PrintUtils\obj\Debug\net8.0\PrintUtils.csproj.CoreCompileInputs.cache
+C:\Users\vanco\Documents\Dossier de code\C#(Personal)\PrintUtils\obj\Debug\net8.0\PrintUtils.dll
+C:\Users\vanco\Documents\Dossier de code\C#(Personal)\PrintUtils\obj\Debug\net8.0\refint\PrintUtils.dll
+C:\Users\vanco\Documents\Dossier de code\C#(Personal)\PrintUtils\obj\Debug\net8.0\PrintUtils.pdb
+C:\Users\vanco\Documents\Dossier de code\C#(Personal)\PrintUtils\obj\Debug\net8.0\ref\PrintUtils.dll

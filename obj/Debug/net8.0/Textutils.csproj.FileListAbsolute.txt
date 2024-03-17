@@ -1,0 +1,11 @@
+C:\Users\vanco\Documents\Dossier de code\C#(Personal)\Textutils\bin\Debug\net8.0\Textutils.deps.json
+C:\Users\vanco\Documents\Dossier de code\C#(Personal)\Textutils\bin\Debug\net8.0\Textutils.dll
+C:\Users\vanco\Documents\Dossier de code\C#(Personal)\Textutils\bin\Debug\net8.0\Textutils.pdb
+C:\Users\vanco\Documents\Dossier de code\C#(Personal)\Textutils\obj\Debug\net8.0\Textutils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanco\Documents\Dossier de code\C#(Personal)\Textutils\obj\Debug\net8.0\Textutils.AssemblyInfoInputs.cache
+C:\Users\vanco\Documents\Dossier de code\C#(Personal)\Textutils\obj\Debug\net8.0\Textutils.AssemblyInfo.cs
+C:\Users\vanco\Documents\Dossier de code\C#(Personal)\Textutils\obj\Debug\net8.0\Textutils.csproj.CoreCompileInputs.cache
+C:\Users\vanco\Documents\Dossier de code\C#(Personal)\Textutils\obj\Debug\net8.0\Textutils.dll
+C:\Users\vanco\Documents\Dossier de code\C#(Personal)\Textutils\obj\Debug\net8.0\refint\Textutils.dll
+C:\Users\vanco\Documents\Dossier de code\C#(Personal)\Textutils\obj\Debug\net8.0\Textutils.pdb
+C:\Users\vanco\Documents\Dossier de code\C#(Personal)\Textutils\obj\Debug\net8.0\ref\Textutils.dll
